@@ -152,13 +152,16 @@ clawhub install summarize --no-input
 | web-design | ✅ 已安装 | v1.0.0 |
 | responsive-design | ❌ 待重试 | 速率限制 |
 | design-system-components | ✅ 已安装 | v1.0.0 |
-| ui-ux-pro-max | ❌ 待重试 | 速率限制 |
+| ui-ux-pro-max | ✅ 已安装 | v0.1.0 |
 
 **安装日志**:
 - 2026-03-03 20:50: 第1次尝试，全部失败 ❌ ClawHub 速率限制
 - 2026-03-03 21:01: 第2次尝试 ✅ design-system-components 安装成功
-- 已安装: tailwind-design-system, web-design, design-system-components
-- 待重试: frontend, ui-ux-design, responsive-design, ui-ux-pro-max
+- 2026-03-03 22:50: 第3次尝试，全部速率限制 ❌
+- 2026-03-03 23:10: 第4次尝试，全部速率限制 ❌ (frontend, ui-ux-design, responsive-design)
+- 已安装: tailwind-design-system, web-design, design-system-components, ui-ux-pro-max
+- 待重试: frontend, ui-ux-design, responsive-design
+- 下次重试: 2026-03-05 23:10
 
 ### 📦 ClawHub 技能管理
 

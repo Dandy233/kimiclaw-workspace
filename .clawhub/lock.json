@@ -12,6 +12,10 @@
     "design-system-components": {
       "version": "1.0.0",
       "installedAt": 1772542987140
+    },
+    "ui-ux-pro-max": {
+      "version": "0.1.0",
+      "installedAt": 1772550286190
     }
   }
 }
