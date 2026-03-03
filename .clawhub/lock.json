@@ -24,6 +24,10 @@
     "frontend": {
       "version": "1.0.2",
       "installedAt": 1772554877021
+    },
+    "responsive-design": {
+      "version": "1.0.0",
+      "installedAt": 1772556616931
     }
   }
 }
