@@ -139,15 +139,15 @@ clawhub install summarize --no-input
 - PDF文档自动摘要
 
 ### 🎨 Frontend Design (前端设计技能集)
-- **状态**: ⏳ 安装中（ClawHub速率限制，分批重试）
+- **状态**: ⏳ 安装中（剩余1项）
 - **来源**: clawhub
 - **任务ID**: install-frontend-skills
 
-**待安装技能清单**:
-| 技能名 | 状态 | 备注 |
+**安装状态**:
+| 技能名 | 状态 | 版本 |
 |--------|------|------|
-| frontend | ❌ 待重试 | 速率限制 |
-| ui-ux-design | ❌ 待重试 | 速率限制 |
+| frontend | ✅ 已安装 | v1.0.2 |
+| ui-ux-design | ✅ 已安装 | v1.0.0 |
 | tailwind-design-system | ✅ 已安装 | v1.0.0 |
 | web-design | ✅ 已安装 | v1.0.0 |
 | responsive-design | ❌ 待重试 | 速率限制 |
@@ -158,10 +158,11 @@ clawhub install summarize --no-input
 - 2026-03-03 20:50: 第1次尝试，全部失败 ❌ ClawHub 速率限制
 - 2026-03-03 21:01: 第2次尝试 ✅ design-system-components 安装成功
 - 2026-03-03 22:50: 第3次尝试，全部速率限制 ❌
-- 2026-03-03 23:10: 第4次尝试，全部速率限制 ❌ (frontend, ui-ux-design, responsive-design)
-- 已安装: tailwind-design-system, web-design, design-system-components, ui-ux-pro-max
-- 待重试: frontend, ui-ux-design, responsive-design
-- 下次重试: 2026-03-05 23:10
+- 2026-03-03 23:10: 第4次尝试，全部速率限制 ❌
+- 2026-03-03 23:50: 第5次尝试，全部速率限制 ❌
+- 2026-03-04 00:40: ✅ frontend (v1.0.2)、ui-ux-design (v1.0.0) 安装成功
+- 待重试: responsive-design
+- 下次重试: 等待 ClawHub 速率限制恢复
 
 ### 📦 ClawHub 技能管理
 

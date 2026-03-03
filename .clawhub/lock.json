@@ -16,6 +16,14 @@
     "ui-ux-pro-max": {
       "version": "0.1.0",
       "installedAt": 1772550286190
+    },
+    "ui-ux-design": {
+      "version": "1.0.0",
+      "installedAt": 1772554820498
+    },
+    "frontend": {
+      "version": "1.0.2",
+      "installedAt": 1772554877021
     }
   }
 }
