@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "tailwind-design-system": {
+      "version": "1.0.0",
+      "installedAt": 1772537346954
+    },
+    "web-design": {
+      "version": "1.0.0",
+      "installedAt": 1772541066354
+    }
+  }
+}
