@@ -8,6 +8,10 @@
     "web-design": {
       "version": "1.0.0",
       "installedAt": 1772541066354
+    },
+    "design-system-components": {
+      "version": "1.0.0",
+      "installedAt": 1772542987140
     }
   }
 }
